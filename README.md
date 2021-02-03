@@ -8,5 +8,5 @@ Use the command python manage.py runserver and in the browser go to address http
 
 DEPENDENCIES:
 
-Django web framework
+Django web framework,
 Beautiful Soup 4
